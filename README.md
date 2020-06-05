@@ -1,2 +1,2 @@
 # Coursera-Machine-Learning
-Completed exercise from Coursera Machine Learning Course
+Completed exercises from Coursera Machine Learning Course
